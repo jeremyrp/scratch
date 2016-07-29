@@ -1,5 +1,12 @@
 # .bashrc
 
+#################################################
+### History
+#
+# 2015-NOV-24
+# - Original draft
+#
+
 # User specific aliases and functions
 
 alias rm='rm -i'
